@@ -5,16 +5,16 @@
     "icon": "https://favicons.githubusercontent.com/www.agroconsultasonline.com.ar",
     "slug": "agroconsultas",
     "status": "up",
-    "uptime": "99.90%",
+    "uptime": "99.91%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.90%",
-    "time": 906,
-    "timeDay": 657,
-    "timeWeek": 667,
-    "timeMonth": 925,
-    "timeYear": 906,
+    "uptimeYear": "99.91%",
+    "time": 907,
+    "timeDay": 969,
+    "timeWeek": 729,
+    "timeMonth": 933,
+    "timeYear": 907,
     "dailyMinutesDown": {
       "2022-04-14": 169
     }
