@@ -1,8 +1,8 @@
 [
   {
     "name": "Agroconsultas",
-    "url": "https://www.agroconsultasonline.com.ar",
-    "icon": "https://icons.duckduckgo.com/ip3/www.agroconsultasonline.com.ar.ico",
+    "url": "https://www.agroconsultasonline.com",
+    "icon": "https://icons.duckduckgo.com/ip3/www.agroconsultasonline.com.ico",
     "slug": "agroconsultas",
     "status": "up",
     "uptime": "99.79%",
@@ -10,11 +10,11 @@
     "uptimeWeek": "99.51%",
     "uptimeMonth": "99.63%",
     "uptimeYear": "99.76%",
-    "time": 968,
-    "timeDay": 1331,
-    "timeWeek": 1701,
-    "timeMonth": 1464,
-    "timeYear": 982,
+    "time": 967,
+    "timeDay": 1016,
+    "timeWeek": 1766,
+    "timeMonth": 1444,
+    "timeYear": 981,
     "dailyMinutesDown": {
       "2023-05-09": 32,
       "2023-05-08": 17,
