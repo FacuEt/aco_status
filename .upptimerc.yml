@@ -4,7 +4,7 @@ repo: aco_status # The name of this repository
 
 sites:
   - name: Agroconsultas
-    url: https://www.agroconsultasonline.com.ar
+    url: https://www.agroconsultasonline.com
     
 assignees: # Users to assign downtime issues (optional)
   - FacuEt
