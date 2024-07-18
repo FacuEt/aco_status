@@ -10,31 +10,29 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 141,
-    "timeDay": 152,
-    "timeWeek": 141,
-    "timeMonth": 141,
-    "timeYear": 141,
+    "time": 128,
+    "timeDay": 127,
+    "timeWeek": 128,
+    "timeMonth": 128,
+    "timeYear": 128,
     "dailyMinutesDown": {}
   },
   {
     "name": "TEST Agroconsultas backend",
-    "url": "https://test.agroconsultasonline.com/healthcheck",
-    "icon": "https://icons.duckduckgo.com/ip3/test.agroconsultasonline.com.ico",
+    "url": "https://testasdfg.agroconsultasonline.com/healthcheck",
+    "icon": "https://icons.duckduckgo.com/ip3/testasdfg.agroconsultasonline.com.ico",
     "slug": "test-agroconsultas-backend",
     "status": "down",
-    "uptime": "1.11%",
-    "uptimeDay": "1.11%",
-    "uptimeWeek": "1.11%",
-    "uptimeMonth": "1.11%",
-    "uptimeYear": "1.11%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
-    "dailyMinutesDown": {
-      "2024-07-18": 0
-    }
+    "dailyMinutesDown": {}
   }
 ]
