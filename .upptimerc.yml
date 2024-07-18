@@ -6,7 +6,7 @@ sites:
   - name: Agroconsultas backend
     url: https://aws.agroconsultasonline.com/healthcheck
   - name: TEST Agroconsultas backend
-    url: https://test.agroconsultasonline.com/healthcheck
+    url: https://testasdfg.agroconsultasonline.com/healthcheck
     
 assignees: # Users to assign downtime issues (optional)
   - FacuEt
