@@ -5,8 +5,6 @@ repo: aco_status # The name of this repository
 sites:
   - name: Agroconsultas backend
     url: https://aws.agroconsultasonline.com/healthcheck
-  - name: TEST email v2.4
-    url: https://email.fake.com/healthcheck
     
 assignees: # Users to assign downtime issues (optional)
   - FacuEt
