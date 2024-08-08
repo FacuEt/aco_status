@@ -4,19 +4,19 @@
     "url": "https://aws.agroconsultasonline.com/healthcheck",
     "icon": "https://icons.duckduckgo.com/ip3/aws.agroconsultasonline.com.ico",
     "slug": "agroconsultas-backend",
-    "status": "down",
-    "uptime": "99.78%",
-    "uptimeDay": "94.86%",
-    "uptimeWeek": "99.27%",
-    "uptimeMonth": "99.78%",
-    "uptimeYear": "99.78%",
-    "time": 180,
-    "timeDay": 220,
-    "timeWeek": 194,
-    "timeMonth": 180,
-    "timeYear": 180,
+    "status": "up",
+    "uptime": "99.75%",
+    "uptimeDay": "94.33%",
+    "uptimeWeek": "99.19%",
+    "uptimeMonth": "99.75%",
+    "uptimeYear": "99.75%",
+    "time": 179,
+    "timeDay": 202,
+    "timeWeek": 188,
+    "timeMonth": 179,
+    "timeYear": 179,
     "dailyMinutesDown": {
-      "2024-08-08": 74
+      "2024-08-08": 82
     }
   }
 ]
