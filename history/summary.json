@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/aws.agroconsultasonline.com.ico",
     "slug": "agroconsultas-backend",
     "status": "up",
-    "uptime": "99.83%",
+    "uptime": "99.84%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.83%",
-    "uptimeYear": "99.83%",
-    "time": 176,
-    "timeDay": 125,
-    "timeWeek": 149,
-    "timeMonth": 176,
-    "timeYear": 176,
+    "uptimeYear": "99.84%",
+    "time": 179,
+    "timeDay": 352,
+    "timeWeek": 178,
+    "timeMonth": 181,
+    "timeYear": 179,
     "dailyMinutesDown": {
       "2024-08-08": 74
     }
