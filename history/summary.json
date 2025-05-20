@@ -32,19 +32,19 @@
     "url": "https://www.agroconsultasonline.com/api/health",
     "icon": "https://icons.duckduckgo.com/ip3/www.agroconsultasonline.com.ico",
     "slug": "agroconsultas-frontend",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "98.84%",
+    "uptimeWeek": "99.83%",
+    "uptimeMonth": "99.96%",
     "uptimeYear": "100.00%",
-    "time": 326,
-    "timeDay": 281,
-    "timeWeek": 275,
-    "timeMonth": 275,
-    "timeYear": 326,
+    "time": 327,
+    "timeDay": 325,
+    "timeWeek": 290,
+    "timeMonth": 279,
+    "timeYear": 327,
     "dailyMinutesDown": {
-      "2025-05-20": 0
+      "2025-05-20": 17
     }
   }
 ]
