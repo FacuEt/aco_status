@@ -1,7 +1,7 @@
 url: https://www.agroconsultasonline.com/api/health
-status: up
-code: 200
-responseTime: 315
-lastUpdated: 2025-09-03T23:08:29.221Z
+status: down
+code: 404
+responseTime: 507
+lastUpdated: 2025-09-04T10:13:48.537Z
 startTime: 2024-08-23T12:57:26.598Z
 generator: Upptime <https://github.com/upptime/upptime>
