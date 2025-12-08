@@ -31,7 +31,7 @@
     "url": "https://www.agroconsultasonline.com/api/health",
     "icon": "https://icons.duckduckgo.com/ip3/www.agroconsultasonline.com.ico",
     "slug": "agroconsultas-frontend",
-    "status": "up",
+    "status": "down",
     "uptime": "99.85%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -43,6 +43,7 @@
     "timeMonth": 299,
     "timeYear": 298,
     "dailyMinutesDown": {
+      "2025-12-08": 0,
       "2025-11-12": 155,
       "2025-10-09": 339,
       "2025-10-06": 78,
