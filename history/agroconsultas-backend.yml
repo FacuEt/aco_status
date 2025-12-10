@@ -1,7 +1,7 @@
 url: https://aws.agroconsultasonline.com/healthcheck
-status: down
-code: 502
-responseTime: 142
-lastUpdated: 2025-12-10T07:58:07.857Z
+status: up
+code: 200
+responseTime: 440
+lastUpdated: 2025-12-10T08:31:05.139Z
 startTime: 2024-07-16T15:03:24.397Z
 generator: Upptime <https://github.com/upptime/upptime>
