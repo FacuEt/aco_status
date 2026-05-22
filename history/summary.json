@@ -8,11 +8,11 @@
     "uptime": "94.55%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "50.75%",
+    "uptimeMonth": "54.03%",
     "uptimeYear": "90.00%",
     "time": 329,
-    "timeDay": 230,
-    "timeWeek": 165,
+    "timeDay": 67,
+    "timeWeek": 132,
     "timeMonth": 161,
     "timeYear": 364,
     "dailyMinutesDown": {
@@ -61,8 +61,7 @@
       "2025-10-23": 16,
       "2025-10-08": 20,
       "2025-10-06": 41,
-      "2025-09-12": 19,
-      "2025-05-22": 22
+      "2025-09-12": 19
     }
   },
   {
@@ -71,16 +70,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.agroconsultasonline.com.ico",
     "slug": "agroconsultas-frontend",
     "status": "up",
-    "uptime": "92.29%",
+    "uptime": "92.30%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "50.75%",
+    "uptimeMonth": "54.03%",
     "uptimeYear": "86.57%",
     "time": 341,
-    "timeDay": 246,
-    "timeWeek": 175,
+    "timeDay": 58,
+    "timeWeek": 125,
     "timeMonth": 161,
-    "timeYear": 373,
+    "timeYear": 372,
     "dailyMinutesDown": {
       "2026-05-06": 236,
       "2026-05-05": 1440,
